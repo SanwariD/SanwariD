@@ -1,5 +1,5 @@
 <!-- Banner or Greeting -->
-<h1 align="center">Hi there, I'm Sanwari! 👋</h1>
+<h1 align="center">Hey, I'm Sanwari! 👋</h1>
 
 <p align="center">
   Penultimate-year Software Engineering (AI) student @ Torrens University<br>
